@@ -1,1 +1,1 @@
-# django_todo
+# ToDoList
